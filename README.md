@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-**vkeziah/vkeziah**
+**I am Ratnakar Vanapalli**
 
-Here are some ideas to get you started:
+This is the place where I open source stuff and break things:
 
 - 🔭 I’m currently working on ecommerce platform - Shopify, Bigcommerce, Spree
 - 🌱 I’m currently learning React Native

@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**vkeziah/vkeziah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**vkeziah/vkeziah**
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email: kezy485@gmail.com
 - 😄 Pronouns: Ratnakar
 - ⚡ Fun fact: love to write code, learning new skills 
--->
+
